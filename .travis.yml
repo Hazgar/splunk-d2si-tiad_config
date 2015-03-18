@@ -1,4 +1,4 @@
 language: ruby
 install: gem install facter
 script:
-  - ./hiera/tiad/test.sh/ 
+  - ./hiera/tiad/test.sh 
